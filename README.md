@@ -10,7 +10,11 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/ripienaar/free-for-dev)
 
+<<<<<<< HEAD
 **NOTE**: This list is only for as-a-Service offerings, We also consider the free tier from a security perspective, so SSO is fine, but I will not accept services that restrict TLS to paid-only tiers.
+=======
+**NOTE**: This list is only for as-a-Service offerings, least a year if it is time-bucketed. We also consider the free tier from a security perspective, so SSO is fine, but I will not accept services that restrict TLS to paid-only tiers.
+>>>>>>> branch1
 
 # Table of Contents
 
